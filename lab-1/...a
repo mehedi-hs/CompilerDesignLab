@@ -1,0 +1,6 @@
+
+write a flex program to recognize the following type of string:
+1.keywords: int,printf,float
+2.identifiers start with a letter or underscore followed by any number of letter ,number or underscore.
+3.end with digits: must end with a digits followed by any number of letter,number or underscore.
+4.start with digit: must start with a digit followed by any number of letter,number or underscore
